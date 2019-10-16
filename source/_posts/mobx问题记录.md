@@ -6,7 +6,7 @@ tags:
 
 ## 安装（基于 create-react-app）
 
-- npm 安装 `npm install mobx mobx -D`
+- npm 安装 `npm install mobx mobx-react -D`
 - 使用装饰器
 
   - 由于 babel 的更新，解决浏览器无法识别装饰器的解决方案为安装`npm install @babel/plugin-proposal-decorators -D`，然后在`package.json`中添加
